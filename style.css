@@ -1,0 +1,39 @@
+body{background-color: #F0CF89;}
+h1{
+	color:#7DF04B;
+	font-family: HELVETICA;
+	font-size: 40px;
+	text-align: center;
+	background-color: white;
+	margin: 40px;
+	padding: 20px;
+}
+
+p{
+	color:#CB510C;
+	font-family: PAPYRUS;
+	font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+	color:#4BF0B1;
+	font-family: PAPYRUS;
+	font-size: 12px;
+}
+
+a:hover{color:#645C5C;}
+
+ul{list-style-type: none;
+
+}
+
+li{
+	display: inline;
+	padding: 10px;
+	border-color:#D24747;
+	border-style: dotted;
+	border-width: 5px;
+	background-color:#FAF2F2;
+}
+
